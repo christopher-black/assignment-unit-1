@@ -1,4 +1,11 @@
 /* Add a background color to the header element */
+header {
+    background-color:darkcyan;
+}
+
+.page-header {
+    color: white;
+}
 
 /* Add a fun background color to the main element */
 
